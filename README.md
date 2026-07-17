@@ -74,6 +74,7 @@
 - [BrightLocal AI Citation Tracker](https://www.brightlocal.com) - Track business citations across AI search results.
 - [Semrush AI Search Visibility](https://www.semrush.com) - AI-powered search visibility analysis.
 - [Authoritas GEO Tool](https://authoritas.com) - Generative engine optimization tracking and analysis.
+- [Parse](https://parse.gl/) - AI brand visibility analytics tracking how brands appear in ChatGPT and Google AI Overviews, with competitor benchmarks and citation diagnostics.
 
 ### Content Optimization
 
