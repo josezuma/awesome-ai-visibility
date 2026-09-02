@@ -74,6 +74,7 @@
 - [BrightLocal AI Citation Tracker](https://www.brightlocal.com) - Track business citations across AI search results.
 - [Semrush AI Search Visibility](https://www.semrush.com) - AI-powered search visibility analysis.
 - [Authoritas GEO Tool](https://authoritas.com) - Generative engine optimization tracking and analysis.
+- [Scope](https://scope.online) - AI visibility platform for ChatGPT, Claude, Gemini, and Perplexity, with a free checker and MCP server for agents.
 
 ### Content Optimization
 
@@ -119,6 +120,7 @@
 ## MCP Servers for AI Visibility
 
 - [MCP GEO](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools (llms.txt, robots.txt, schema validation).
+- [Scope MCP](https://scope.online/mcp) - Production MCP server for AI visibility (score, citations, competitors) that Claude, ChatGPT, and Cursor can operate.
 - [MCP Web Research](https://github.com) - MCP server for web research and content analysis.
 - [MCP SEO Tools](https://github.com) - MCP server with SEO analysis capabilities for AI agents.
 
