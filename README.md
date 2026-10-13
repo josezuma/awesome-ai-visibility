@@ -118,7 +118,7 @@
 
 ## MCP Servers for AI Visibility
 
-- [AnswerLine](https://answerline.dev) - Remote MCP server returning what ChatGPT, Gemini, Copilot and Google AI Overviews, AI Mode and News answer, with cited sources, by country. `https://mcp.answerline.dev/mcp` (X-Api-Key header; free keys at the site).
+- [AnswerLine](https://answerline.dev) - Remote MCP server returning what ChatGPT, Gemini and Google AI Overviews, AI Mode and News answer, with cited sources, by country. `https://mcp.answerline.dev/mcp` (X-Api-Key header; free keys at the site).
 - [MCP GEO](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools (llms.txt, robots.txt, schema validation).
 - [MCP Web Research](https://github.com) - MCP server for web research and content analysis.
 - [MCP SEO Tools](https://github.com) - MCP server with SEO analysis capabilities for AI agents.
