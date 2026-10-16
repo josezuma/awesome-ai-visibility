@@ -118,6 +118,7 @@
 
 ## MCP Servers for AI Visibility
 
+- [Cite42 MCP](https://github.com/Cite42/mcp) - MCP server that checks whether ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention your brand, which competitors they name and which sources they cite, plus keyword volume and Google Trends. Pay per call, no subscription.
 - [MCP GEO](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools (llms.txt, robots.txt, schema validation).
 - [MCP Web Research](https://github.com) - MCP server for web research and content analysis.
 - [MCP SEO Tools](https://github.com) - MCP server with SEO analysis capabilities for AI agents.
@@ -149,6 +150,7 @@
 
 ## Monitoring & Analytics
 
+- [Cite42](https://www.cite42.dev) - Pay-per-call API and MCP server that measures brand mentions, rank and cited sources in answers from ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews.
 - [Google Search Console](https://search.google.com/search-console) - Monitor your site's presence in Google Search, including AI Overviews.
 - [Google Analytics 4](https://analytics.google.com) - Track traffic from AI-powered search sources.
 - [Perplexity Publisher Program](https://www.perplexity.ai) - Monitor and analyze your presence in Perplexity search.
