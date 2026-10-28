@@ -146,6 +146,7 @@
 - [Measuring Brand Visibility in LLM Outputs](https://arxiv.org) - Methodology for quantifying brand mention rates in AI responses.
 - [AI Citation Patterns Across Industries](https://arxiv.org) - Analysis of which content types get cited by LLMs most frequently.
 - [The Impact of Structured Data on LLM Citation Rates](https://arxiv.org) - Study correlating schema.org markup with AI search visibility.
+- [Where Does AI Get Its Information? (LLMReach)](https://www.llmreach.ai/research/where-does-ai-get-its-information) - Which sites ChatGPT, Gemini, Perplexity, Google AI Overviews and AI Mode cite for the same 250 buyer questions across 25 sectors (1,164 answers, October 2026).
 
 ## Monitoring & Analytics
 
