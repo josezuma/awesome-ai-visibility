@@ -158,6 +158,7 @@
 
 ## Open Source Projects
 
+- [consent-txt](https://github.com/GGeronik/consent-txt) - One publisher-authored manifest that compiles into robots.txt, AIPREF headers, X-Robots-Tag, Google-Extended, TDMRep and Content-Signal outputs, with a Cloudflare Worker enforcement layer.
 - [awesome-ai-visibility](https://github.com/josezuma/awesome-ai-visibility) - This list. Curated resources for AI visibility/GEO/AEO.
 - [ai-crawlers](https://github.com/josezuma/ai-crawlers) - Machine-readable AI crawler dataset with weekly verification.
 - [geo-audit-skill](https://github.com/josezuma/geo-audit-skill) - Claude/Agent skill for AI-search readiness auditing.
