@@ -168,6 +168,7 @@
 - [mcp-geo](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools to any AI agent.
 - [repo-visibility-skill](https://github.com/josezuma/repo-visibility-skill) - Skill to audit GitHub repos for AI discoverability.
 - [marketing-skills](https://github.com/josezuma/marketing-skills) - Pack of agent skills for marketers doing GEO content.
+- [ai-visibility-scan](https://github.com/foxscar-git-hub/ai-visibility-scan) - CLI and library that scans a URL's robots.txt and llms.txt against named AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot, Bytespider) individually and auto-generates an llms.txt from the page's own content.
 - [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) - Earlier GEO awesome list (guides-focused).
 
 ## Newsletters & Blogs
