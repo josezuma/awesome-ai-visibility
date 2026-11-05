@@ -118,6 +118,7 @@
 
 ## MCP Servers for AI Visibility
 
+- [AgentSEO](https://www.agentseo.dev/seo-mcp-server) - MCP server for answer engine optimization (AEO) research, including Google AI Overview analysis, repeatable AI search prompts, and brand mention checks. Tool calls require an API key and usage credits.
 - [MCP GEO](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools (llms.txt, robots.txt, schema validation).
 - [MCP Web Research](https://github.com) - MCP server for web research and content analysis.
 - [MCP SEO Tools](https://github.com) - MCP server with SEO analysis capabilities for AI agents.
