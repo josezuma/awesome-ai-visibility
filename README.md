@@ -121,6 +121,7 @@
 - [MCP GEO](https://github.com/josezuma/mcp-geo) - MCP server exposing GEO audit tools (llms.txt, robots.txt, schema validation).
 - [MCP Web Research](https://github.com) - MCP server for web research and content analysis.
 - [MCP SEO Tools](https://github.com) - MCP server with SEO analysis capabilities for AI agents.
+- [zaDojo](https://github.com/zaDojo/seo-geo-mcp) - Hosted MCP server for AI visibility tracking (ChatGPT, Gemini, Perplexity, Google AI Overviews), plus free Search Console and Google Analytics, SERP and keyword research.
 
 ## Schema & Structured Data
 
