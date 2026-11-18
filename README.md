@@ -155,6 +155,7 @@
 - [ChatGPT Browse Analytics](https://analytics.openai.com) - OpenAI's analytics for cited publishers.
 - [Brand24](https://brand24.com) - Social listening platform expanding to AI citation monitoring.
 - [Mention](https://mention.com) - Brand mention tracking across web and AI search.
+- [Elmo](https://github.com/elmohq/elmo) - Open-source Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, available self-hosted or as a managed cloud service.
 
 ## Open Source Projects
 
