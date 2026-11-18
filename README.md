@@ -106,6 +106,7 @@
 - [llmstxt Generator](https://github.com/josezuma/llmstxt-gen) - CLI tool to generate llms.txt from any website (npx llmstxt-gen).
 - [LLM.txt Validator](https://github.com) - Validate your llms.txt against the official spec.
 - [Awesome llms.txt](https://github.com) - Curated list of notable llms.txt implementations.
+- [AwesomeDevKit llms.txt Validator](https://awesomedevkit.com/llms-txt-validator) - Free llms.txt validator that scores your file 0–100 against the spec and gives concrete fixes.
 
 ## Agent Skills for GEO
 
