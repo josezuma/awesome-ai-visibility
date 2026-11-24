@@ -155,6 +155,7 @@
 - [ChatGPT Browse Analytics](https://analytics.openai.com) - OpenAI's analytics for cited publishers.
 - [Brand24](https://brand24.com) - Social listening platform expanding to AI citation monitoring.
 - [Mention](https://mention.com) - Brand mention tracking across web and AI search.
+- [WebDecoy for WordPress](https://github.com/WebDecoy/wordpress-plugin) - View AI crawler requests that reach WordPress and human referrals from AI assistants in separate dashboard reports.
 
 ## Open Source Projects
 
